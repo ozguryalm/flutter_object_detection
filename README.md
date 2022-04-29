@@ -21,3 +21,4 @@ Projemiz engelleri kaldırma noktasında görme engelli bireyler için düşün�
 			Frontend UI - Uğur Can Işıldar
 			Nesne sınıflandırma ve Test  Musa Karabulut
 
+NOT: Aynı evde kaldığımız için proje toplantıları yüzyüze yapılmıştır. Bu nedenle toplantı ile ilgili video bulunmamaktadır.
