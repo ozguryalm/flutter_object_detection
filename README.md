@@ -4,5 +4,18 @@ Projemiz engelleri kaldırma noktasında görme engelli bireyler için düşün�
 
 -V 1.0-beta 
   Uygulumamızın nihai release sürüme çıkmadan önceki sürümü olan bu sürümde yalnızca nesnelerin algılanması ve algılanan nesnelerin ekrana yazı olarak bastırılması kararlı bir şekilde çalışmaktadır.
-![WhatsApp Image 2022-04-29 at 13 39 58](https://user-images.githubusercontent.com/70033188/165930204-b829acac-b255-4ad8-ba83-b348cb23215f.jpeg)
-[Takım Rehberi.docx](https://github.com/ozguryalm/flutter_object_detection/files/8594581/Takim.Rehberi.docx)
+![WhatsApp Image 2022-04-29 at 13 39 58](https://user-images.githubusercontent.com/70033188/165930204-b829acac-b255-4ad8-ba83-b348cb23215f.jpeg | width=100)
+
+              ÖZDAR 
+          Takım Rehberi
+
+Nesneleri görüntü ile algılayıp sesli ileten projemizin takım üyeleri ve numaraları aşağıdadır.
+-Özgür Yalım - 180541014
+-Uğur Can Işıldar - 170541039
+-Musa Karabulut  - 170541055
+
+Projemizde görev dağılımı ise;
+	Backend - Özgür Yalım
+	Frontend UI - Uğur Can Işıldar
+	Nesne sınıflandırma ve Test  Musa Karabulut
+
